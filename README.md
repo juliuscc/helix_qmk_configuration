@@ -5,4 +5,6 @@ This file is a QMK Configurator export. You can import this at <https://config.q
 
 To setup your QMK environment check out the tutorial: <https://docs.qmk.fm/#/newbs>
 
-You can convert this file to a keymap.c using this command: `qmk json2c {keymap}`\n\nYou can compile this keymap using this command: `qmk compile {keymap}`
+You can convert this file to a keymap.c using this command: `qmk json2c {keymap}`
+
+You can compile this keymap using this command: `qmk compile {keymap}`
