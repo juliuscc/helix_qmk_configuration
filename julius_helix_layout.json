@@ -73,7 +73,7 @@
       "KC_RGHT"
     ],
     [
-      "KC_TRNS",
+      "KC_TILD",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
@@ -187,7 +187,7 @@
       "KC_PPLS",
       "KC_PAST",
       "KC_CIRC",
-      "KC_SLSH",
+      "RCTL_T(KC_SLSH)",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
